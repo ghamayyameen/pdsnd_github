@@ -7,7 +7,7 @@ January 8th, 2023
 
 
 ### Description
-Describe what your project is about and what it does
+It is an interactive tool, to view the desired data from a bikeshares database.
 
 ### Files used
 Include the files used
