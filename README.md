@@ -10,7 +10,7 @@ January 8th, 2023
 It is an interactive tool, to view the desired data from a bikeshares database.
 
 ### Prerequisites
-1. Latest version of [Python](https://www.python.org/downloads/).
+1. Install latest version of [Python](https://www.python.org/downloads/).
 2. numpy and pandas libraries installed.
 ```
 pip install numpy
@@ -19,6 +19,11 @@ pip install numpy
 pip install pandas
 ```
 Enter the above commands in the command line, to install the libraries.
+
+### To Run
+1. Open command line in the folder with the bikeshare_2.py .
+2. In the command line type py `bikeshare_2.py` to run.
+
 ### Files used
 - chicago.csv
 - new_york_city.csv
