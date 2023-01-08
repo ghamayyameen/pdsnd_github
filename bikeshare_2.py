@@ -222,9 +222,13 @@ def main():
         df = load_data(city, month, day)
         # input(df)
         time_stats(df)
+        input("Press enter to view next section.")
         station_stats(df)
+        input("Press enter to view next section.")
         trip_duration_stats(df)
+        input("Press enter to view next section.")
         user_stats(df)
+        input("Press enter to view next section.")  
         raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
