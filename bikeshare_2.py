@@ -203,6 +203,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
+    pd.set_option("display.max_columns",200)
     do=yn_to_bool("Do you want to view the raw data?")
     if do:
         index=0
