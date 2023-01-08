@@ -29,7 +29,7 @@ def choice_handler(*args):
 
 
 def yn_to_bool(question: str):
-    """Displays a question, and changes the answer to a boolean.
+    """Displays a question, and changes the inputed answer to a boolean.
 
     Args:
         question (str): The question to be used.
