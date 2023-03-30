@@ -11,7 +11,7 @@ It is an interactive tool, to view the desired data from a bikeshares database.
 
 ### Prerequisites
 1. Install latest version of [Python](https://www.python.org/downloads/).
-2. numpy and pandas libraries installed.
+2. Install numpy and pandas libraries.
 ```
 pip install numpy
 ```
